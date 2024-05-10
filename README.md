@@ -7,7 +7,7 @@
 
   1) Javascript
   2) API
-  3) .hbs page
+  3) Handlebars
   4) css
 
 Install Dependencies
